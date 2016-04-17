@@ -1,2 +1,2 @@
-# musi
+# music
 music for waves
